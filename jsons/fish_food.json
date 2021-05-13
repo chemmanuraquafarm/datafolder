@@ -1,0 +1,342 @@
+[
+  {
+    "id": 10,
+    "name": "Fish Food 1",
+    "rate": 10,
+    "description": "Sample Description",
+    "image": "assets/img/fish/fish1.jpg",
+    "slides": [
+      {
+        "image": "https://picsum.photos/id/944/900/500",
+        "title": "Title 1",
+        "description": "Description 1"
+      },
+      {
+        "image": "https://picsum.photos/id/945/900/500",
+        "title": "Title 2",
+        "description": "Description 2"
+      },
+      {
+        "image": "https://picsum.photos/id/946/900/500",
+        "title": "Title 3",
+        "description": "Description 3"
+      },
+      {
+        "image": "https://picsum.photos/id/947/900/500",
+        "title": "Title 4",
+        "description": "Description 4"
+      },
+      {
+        "image": "https://picsum.photos/id/948/900/500",
+        "title": "Title 5",
+        "description": "Description 5"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Fish Food 2",
+    "rate": 11,
+    "description": "Sample Description",
+    "image": "assets/img/fish/fish2.jpg",
+    "slides": [
+      {
+        "image": "https://picsum.photos/id/944/900/500",
+        "title": "Title 1",
+        "description": "Description 1"
+      },
+      {
+        "image": "https://picsum.photos/id/945/900/500",
+        "title": "Title 2",
+        "description": "Description 2"
+      },
+      {
+        "image": "https://picsum.photos/id/946/900/500",
+        "title": "Title 3",
+        "description": "Description 3"
+      },
+      {
+        "image": "https://picsum.photos/id/947/900/500",
+        "title": "Title 4",
+        "description": "Description 4"
+      },
+      {
+        "image": "https://picsum.photos/id/948/900/500",
+        "title": "Title 5",
+        "description": "Description 5"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Fish Food 3",
+    "rate": 11,
+    "description": "Sample Description",
+    "image": "assets/img/fish/fish2.jpg",
+    "slides": [
+      {
+        "image": "https://picsum.photos/id/944/900/500",
+        "title": "Title 1",
+        "description": "Description 1"
+      },
+      {
+        "image": "https://picsum.photos/id/945/900/500",
+        "title": "Title 2",
+        "description": "Description 2"
+      },
+      {
+        "image": "https://picsum.photos/id/946/900/500",
+        "title": "Title 3",
+        "description": "Description 3"
+      },
+      {
+        "image": "https://picsum.photos/id/947/900/500",
+        "title": "Title 4",
+        "description": "Description 4"
+      },
+      {
+        "image": "https://picsum.photos/id/948/900/500",
+        "title": "Title 5",
+        "description": "Description 5"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Fish Food 4",
+    "rate": 11,
+    "description": "Sample Description",
+    "image": "assets/img/fish/fish2.jpg",
+    "slides": [
+      {
+        "image": "https://picsum.photos/id/944/900/500",
+        "title": "Title 1",
+        "description": "Description 1"
+      },
+      {
+        "image": "https://picsum.photos/id/945/900/500",
+        "title": "Title 2",
+        "description": "Description 2"
+      },
+      {
+        "image": "https://picsum.photos/id/946/900/500",
+        "title": "Title 3",
+        "description": "Description 3"
+      },
+      {
+        "image": "https://picsum.photos/id/947/900/500",
+        "title": "Title 4",
+        "description": "Description 4"
+      },
+      {
+        "image": "https://picsum.photos/id/948/900/500",
+        "title": "Title 5",
+        "description": "Description 5"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Fish Food 5",
+    "rate": 11,
+    "description": "Sample Description",
+    "image": "assets/img/fish/fish2.jpg",
+    "slides": [
+      {
+        "image": "https://picsum.photos/id/944/900/500",
+        "title": "Title 1",
+        "description": "Description 1"
+      },
+      {
+        "image": "https://picsum.photos/id/945/900/500",
+        "title": "Title 2",
+        "description": "Description 2"
+      },
+      {
+        "image": "https://picsum.photos/id/946/900/500",
+        "title": "Title 3",
+        "description": "Description 3"
+      },
+      {
+        "image": "https://picsum.photos/id/947/900/500",
+        "title": "Title 4",
+        "description": "Description 4"
+      },
+      {
+        "image": "https://picsum.photos/id/948/900/500",
+        "title": "Title 5",
+        "description": "Description 5"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Fish Food 6",
+    "rate": 11,
+    "description": "Sample Description",
+    "image": "assets/img/fish/fish2.jpg",
+    "slides": [
+      {
+        "image": "https://picsum.photos/id/944/900/500",
+        "title": "Title 1",
+        "description": "Description 1"
+      },
+      {
+        "image": "https://picsum.photos/id/945/900/500",
+        "title": "Title 2",
+        "description": "Description 2"
+      },
+      {
+        "image": "https://picsum.photos/id/946/900/500",
+        "title": "Title 3",
+        "description": "Description 3"
+      },
+      {
+        "image": "https://picsum.photos/id/947/900/500",
+        "title": "Title 4",
+        "description": "Description 4"
+      },
+      {
+        "image": "https://picsum.photos/id/948/900/500",
+        "title": "Title 5",
+        "description": "Description 5"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Fish Food 7",
+    "rate": 11,
+    "description": "Sample Description",
+    "image": "assets/img/fish/fish2.jpg",
+    "slides": [
+      {
+        "image": "https://picsum.photos/id/944/900/500",
+        "title": "Title 1",
+        "description": "Description 1"
+      },
+      {
+        "image": "https://picsum.photos/id/945/900/500",
+        "title": "Title 2",
+        "description": "Description 2"
+      },
+      {
+        "image": "https://picsum.photos/id/946/900/500",
+        "title": "Title 3",
+        "description": "Description 3"
+      },
+      {
+        "image": "https://picsum.photos/id/947/900/500",
+        "title": "Title 4",
+        "description": "Description 4"
+      },
+      {
+        "image": "https://picsum.photos/id/948/900/500",
+        "title": "Title 5",
+        "description": "Description 5"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Fish Food 8",
+    "rate": 11,
+    "description": "Sample Description",
+    "image": "assets/img/fish/fish2.jpg",
+    "slides": [
+      {
+        "image": "https://picsum.photos/id/944/900/500",
+        "title": "Title 1",
+        "description": "Description 1"
+      },
+      {
+        "image": "https://picsum.photos/id/945/900/500",
+        "title": "Title 2",
+        "description": "Description 2"
+      },
+      {
+        "image": "https://picsum.photos/id/946/900/500",
+        "title": "Title 3",
+        "description": "Description 3"
+      },
+      {
+        "image": "https://picsum.photos/id/947/900/500",
+        "title": "Title 4",
+        "description": "Description 4"
+      },
+      {
+        "image": "https://picsum.photos/id/948/900/500",
+        "title": "Title 5",
+        "description": "Description 5"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Fish Food 9",
+    "rate": 11,
+    "description": "Sample Description",
+    "image": "assets/img/fish/fish2.jpg",
+    "slides": [
+      {
+        "image": "https://picsum.photos/id/944/900/500",
+        "title": "Title 1",
+        "description": "Description 1"
+      },
+      {
+        "image": "https://picsum.photos/id/945/900/500",
+        "title": "Title 2",
+        "description": "Description 2"
+      },
+      {
+        "image": "https://picsum.photos/id/946/900/500",
+        "title": "Title 3",
+        "description": "Description 3"
+      },
+      {
+        "image": "https://picsum.photos/id/947/900/500",
+        "title": "Title 4",
+        "description": "Description 4"
+      },
+      {
+        "image": "https://picsum.photos/id/948/900/500",
+        "title": "Title 5",
+        "description": "Description 5"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Fish Food 10",
+    "rate": 11,
+    "description": "Sample Description",
+    "image": "assets/img/fish/fish2.jpg",
+    "slides": [
+      {
+        "image": "https://picsum.photos/id/944/900/500",
+        "title": "Title 1",
+        "description": "Description 1"
+      },
+      {
+        "image": "https://picsum.photos/id/945/900/500",
+        "title": "Title 2",
+        "description": "Description 2"
+      },
+      {
+        "image": "https://picsum.photos/id/946/900/500",
+        "title": "Title 3",
+        "description": "Description 3"
+      },
+      {
+        "image": "https://picsum.photos/id/947/900/500",
+        "title": "Title 4",
+        "description": "Description 4"
+      },
+      {
+        "image": "https://picsum.photos/id/948/900/500",
+        "title": "Title 5",
+        "description": "Description 5"
+      }
+    ]
+  }
+]

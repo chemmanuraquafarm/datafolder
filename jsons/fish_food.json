@@ -4,31 +4,31 @@
     "name": "Fish Food 1",
     "rate": 10,
     "description": "Sample Description",
-    "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/fish1.jpg",
+    "image": "fish1.jpg",
     "isAvailable": 1,
     "slides": [
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider1.jpg",
+        "image": "slider1.jpg",
         "title": "Title 1",
         "description": "Description 1"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider2.jpg",
+        "image": "slider2.jpg",
         "title": "Title 2",
         "description": "Description 2"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider3.jpg",
+        "image": "slider3.jpg",
         "title": "Title 3",
         "description": "Description 3"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider4.jpg",
+        "image": "slider4.jpg",
         "title": "Title 4",
         "description": "Description 4"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider5.jpg",
+        "image": "slider5.jpg",
         "title": "Title 5",
         "description": "Description 5"
       }
@@ -39,31 +39,31 @@
     "name": "Fish Food 2",
     "rate": 11,
     "description": "Sample Description",
-    "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/fish2.jpg",
+    "image": "fish2.jpg",
     "isAvailable": 0,
     "slides": [
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider1.jpg",
+        "image": "slider1.jpg",
         "title": "Title 1",
         "description": "Description 1"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider2.jpg",
+        "image": "slider2.jpg",
         "title": "Title 2",
         "description": "Description 2"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider3.jpg",
+        "image": "slider3.jpg",
         "title": "Title 3",
         "description": "Description 3"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider4.jpg",
+        "image": "slider4.jpg",
         "title": "Title 4",
         "description": "Description 4"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider5.jpg",
+        "image": "slider5.jpg",
         "title": "Title 5",
         "description": "Description 5"
       }
@@ -74,31 +74,31 @@
     "name": "Fish Food 3",
     "rate": 11,
     "description": "Sample Description",
-    "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/fish2.jpg",
+    "image": "fish2.jpg",
     "isAvailable": 1,
     "slides": [
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider1.jpg",
+        "image": "slider1.jpg",
         "title": "Title 1",
         "description": "Description 1"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider2.jpg",
+        "image": "slider2.jpg",
         "title": "Title 2",
         "description": "Description 2"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider3.jpg",
+        "image": "slider3.jpg",
         "title": "Title 3",
         "description": "Description 3"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider4.jpg",
+        "image": "slider4.jpg",
         "title": "Title 4",
         "description": "Description 4"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider5.jpg",
+        "image": "slider5.jpg",
         "title": "Title 5",
         "description": "Description 5"
       }
@@ -109,31 +109,31 @@
     "name": "Fish Food 4",
     "rate": 11,
     "description": "Sample Description",
-    "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/fish2.jpg",
+    "image": "fish2.jpg",
     "isAvailable": 1,
     "slides": [
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider1.jpg",
+        "image": "slider1.jpg",
         "title": "Title 1",
         "description": "Description 1"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider2.jpg",
+        "image": "slider2.jpg",
         "title": "Title 2",
         "description": "Description 2"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider3.jpg",
+        "image": "slider3.jpg",
         "title": "Title 3",
         "description": "Description 3"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider4.jpg",
+        "image": "slider4.jpg",
         "title": "Title 4",
         "description": "Description 4"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider5.jpg",
+        "image": "slider5.jpg",
         "title": "Title 5",
         "description": "Description 5"
       }
@@ -144,31 +144,31 @@
     "name": "Fish Food 5",
     "rate": 11,
     "description": "Sample Description",
-    "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/fish2.jpg",
+    "image": "fish2.jpg",
     "isAvailable": 1,
     "slides": [
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider1.jpg",
+        "image": "slider1.jpg",
         "title": "Title 1",
         "description": "Description 1"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider2.jpg",
+        "image": "slider2.jpg",
         "title": "Title 2",
         "description": "Description 2"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider3.jpg",
+        "image": "slider3.jpg",
         "title": "Title 3",
         "description": "Description 3"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider4.jpg",
+        "image": "slider4.jpg",
         "title": "Title 4",
         "description": "Description 4"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider5.jpg",
+        "image": "slider5.jpg",
         "title": "Title 5",
         "description": "Description 5"
       }
@@ -179,31 +179,31 @@
     "name": "Fish Food 6",
     "rate": 11,
     "description": "Sample Description",
-    "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/fish2.jpg",
+    "image": "fish2.jpg",
     "isAvailable": 1,
     "slides": [
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider1.jpg",
+        "image": "slider1.jpg",
         "title": "Title 1",
         "description": "Description 1"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider2.jpg",
+        "image": "slider2.jpg",
         "title": "Title 2",
         "description": "Description 2"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider3.jpg",
+        "image": "slider3.jpg",
         "title": "Title 3",
         "description": "Description 3"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider4.jpg",
+        "image": "slider4.jpg",
         "title": "Title 4",
         "description": "Description 4"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider5.jpg",
+        "image": "slider5.jpg",
         "title": "Title 5",
         "description": "Description 5"
       }
@@ -214,31 +214,31 @@
     "name": "Fish Food 7",
     "rate": 11,
     "description": "Sample Description",
-    "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/fish2.jpg",
+    "image": "fish2.jpg",
     "isAvailable": 1,
     "slides": [
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider1.jpg",
+        "image": "slider1.jpg",
         "title": "Title 1",
         "description": "Description 1"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider2.jpg",
+        "image": "slider2.jpg",
         "title": "Title 2",
         "description": "Description 2"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider3.jpg",
+        "image": "slider3.jpg",
         "title": "Title 3",
         "description": "Description 3"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider4.jpg",
+        "image": "slider4.jpg",
         "title": "Title 4",
         "description": "Description 4"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider5.jpg",
+        "image": "slider5.jpg",
         "title": "Title 5",
         "description": "Description 5"
       }
@@ -249,31 +249,31 @@
     "name": "Fish Food 8",
     "rate": 11,
     "description": "Sample Description",
-    "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/fish2.jpg",
+    "image": "fish2.jpg",
     "isAvailable": 1,
     "slides": [
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider1.jpg",
+        "image": "slider1.jpg",
         "title": "Title 1",
         "description": "Description 1"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider2.jpg",
+        "image": "slider2.jpg",
         "title": "Title 2",
         "description": "Description 2"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider3.jpg",
+        "image": "slider3.jpg",
         "title": "Title 3",
         "description": "Description 3"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider4.jpg",
+        "image": "slider4.jpg",
         "title": "Title 4",
         "description": "Description 4"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider5.jpg",
+        "image": "slider5.jpg",
         "title": "Title 5",
         "description": "Description 5"
       }
@@ -284,31 +284,31 @@
     "name": "Fish Food 9",
     "rate": 11,
     "description": "Sample Description",
-    "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/fish2.jpg",
+    "image": "fish2.jpg",
     "isAvailable": 1,
     "slides": [
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider1.jpg",
+        "image": "slider1.jpg",
         "title": "Title 1",
         "description": "Description 1"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider2.jpg",
+        "image": "slider2.jpg",
         "title": "Title 2",
         "description": "Description 2"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider3.jpg",
+        "image": "slider3.jpg",
         "title": "Title 3",
         "description": "Description 3"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider4.jpg",
+        "image": "slider4.jpg",
         "title": "Title 4",
         "description": "Description 4"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider5.jpg",
+        "image": "slider5.jpg",
         "title": "Title 5",
         "description": "Description 5"
       }
@@ -319,31 +319,31 @@
     "name": "Fish Food 10",
     "rate": 11,
     "description": "Sample Description",
-    "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/fish2.jpg",
+    "image": "fish2.jpg",
     "isAvailable": 0,
     "slides": [
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider1.jpg",
+        "image": "slider1.jpg",
         "title": "Title 1",
         "description": "Description 1"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider2.jpg",
+        "image": "slider2.jpg",
         "title": "Title 2",
         "description": "Description 2"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider3.jpg",
+        "image": "slider3.jpg",
         "title": "Title 3",
         "description": "Description 3"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider4.jpg",
+        "image": "slider4.jpg",
         "title": "Title 4",
         "description": "Description 4"
       },
       {
-        "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/slider5.jpg",
+        "image": "slider5.jpg",
         "title": "Title 5",
         "description": "Description 5"
       }

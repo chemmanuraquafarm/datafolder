@@ -5,6 +5,7 @@
     "rate": 10,
     "description": "Sample Description",
     "image": "assets/img/fish/fish1.jpg",
+    "isAvailable": 1,
     "slides": [
       {
         "image": "https://picsum.photos/id/944/900/500",
@@ -39,6 +40,7 @@
     "rate": 11,
     "description": "Sample Description",
     "image": "assets/img/fish/fish2.jpg",
+    "isAvailable": 1,
     "slides": [
       {
         "image": "https://picsum.photos/id/944/900/500",
@@ -73,6 +75,7 @@
     "rate": 11,
     "description": "Sample Description",
     "image": "assets/img/fish/fish2.jpg",
+    "isAvailable": 1,
     "slides": [
       {
         "image": "https://picsum.photos/id/944/900/500",
@@ -107,6 +110,7 @@
     "rate": 11,
     "description": "Sample Description",
     "image": "assets/img/fish/fish2.jpg",
+    "isAvailable": 1,
     "slides": [
       {
         "image": "https://picsum.photos/id/944/900/500",
@@ -141,6 +145,7 @@
     "rate": 11,
     "description": "Sample Description",
     "image": "assets/img/fish/fish2.jpg",
+    "isAvailable": 1,
     "slides": [
       {
         "image": "https://picsum.photos/id/944/900/500",
@@ -175,6 +180,7 @@
     "rate": 11,
     "description": "Sample Description",
     "image": "assets/img/fish/fish2.jpg",
+    "isAvailable": 0,
     "slides": [
       {
         "image": "https://picsum.photos/id/944/900/500",
@@ -209,6 +215,7 @@
     "rate": 11,
     "description": "Sample Description",
     "image": "assets/img/fish/fish2.jpg",
+    "isAvailable": 1,
     "slides": [
       {
         "image": "https://picsum.photos/id/944/900/500",
@@ -243,6 +250,7 @@
     "rate": 11,
     "description": "Sample Description",
     "image": "assets/img/fish/fish2.jpg",
+    "isAvailable": 0,
     "slides": [
       {
         "image": "https://picsum.photos/id/944/900/500",
@@ -277,6 +285,7 @@
     "rate": 11,
     "description": "Sample Description",
     "image": "assets/img/fish/fish2.jpg",
+    "isAvailable": 1,
     "slides": [
       {
         "image": "https://picsum.photos/id/944/900/500",
@@ -311,6 +320,7 @@
     "rate": 11,
     "description": "Sample Description",
     "image": "assets/img/fish/fish2.jpg",
+    "isAvailable": 1,
     "slides": [
       {
         "image": "https://picsum.photos/id/944/900/500",

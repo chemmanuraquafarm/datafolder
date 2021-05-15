@@ -4,7 +4,7 @@
     "name": "Product 1",
     "rate": 10,
     "description": "Sample Description",
-    "image": "assets/img/fish/fish1.jpg",
+    "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/fish1.jpg",
     "isAvailable": 1,
     "slides": [
       {
@@ -39,7 +39,7 @@
     "name": "Product 2",
     "rate": 11,
     "description": "Sample Description",
-    "image": "assets/img/fish/fish2.jpg",
+    "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/fish2.jpg",
     "isAvailable": 1,
     "slides": [
       {
@@ -74,7 +74,7 @@
     "name": "Product 3",
     "rate": 11,
     "description": "Sample Description",
-    "image": "assets/img/fish/fish2.jpg",
+    "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/fish2.jpg",
     "isAvailable": 1,
     "slides": [
       {
@@ -109,7 +109,7 @@
     "name": "Product 4",
     "rate": 11,
     "description": "Sample Description",
-    "image": "assets/img/fish/fish2.jpg",
+    "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/fish2.jpg",
     "isAvailable": 1,
     "slides": [
       {
@@ -144,7 +144,7 @@
     "name": "Product 5",
     "rate": 11,
     "description": "Sample Description",
-    "image": "assets/img/fish/fish2.jpg",
+    "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/fish2.jpg",
     "isAvailable": 1,
     "slides": [
       {
@@ -179,7 +179,7 @@
     "name": "Product 6",
     "rate": 11,
     "description": "Sample Description",
-    "image": "assets/img/fish/fish2.jpg",
+    "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/fish2.jpg",
     "isAvailable": 0,
     "slides": [
       {
@@ -214,7 +214,7 @@
     "name": "Product 7",
     "rate": 11,
     "description": "Sample Description",
-    "image": "assets/img/fish/fish2.jpg",
+    "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/fish2.jpg",
     "isAvailable": 1,
     "slides": [
       {
@@ -249,7 +249,7 @@
     "name": "Product 8",
     "rate": 11,
     "description": "Sample Description",
-    "image": "assets/img/fish/fish2.jpg",
+    "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/fish2.jpg",
     "isAvailable": 0,
     "slides": [
       {
@@ -284,7 +284,7 @@
     "name": "Product 9",
     "rate": 11,
     "description": "Sample Description",
-    "image": "assets/img/fish/fish2.jpg",
+    "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/fish2.jpg",
     "isAvailable": 1,
     "slides": [
       {
@@ -319,7 +319,7 @@
     "name": "Product 10",
     "rate": 11,
     "description": "Sample Description",
-    "image": "assets/img/fish/fish2.jpg",
+    "image": "https://raw.githubusercontent.com/devKR2911/datafolder/main/images/fish2.jpg",
     "isAvailable": 1,
     "slides": [
       {

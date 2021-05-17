@@ -6,33 +6,7 @@
     "description": "Sample Description",
     "image": "fish1.jpg",
     "isAvailable": 1,
-    "slides": [
-      {
-        "image": "slider1.jpg",
-        "title": "Title 1",
-        "description": "Description 1"
-      },
-      {
-        "image": "slider2.jpg",
-        "title": "Title 2",
-        "description": "Description 2"
-      },
-      {
-        "image": "slider3.jpg",
-        "title": "Title 3",
-        "description": "Description 3"
-      },
-      {
-        "image": "slider4.jpg",
-        "title": "Title 4",
-        "description": "Description 4"
-      },
-      {
-        "image": "slider5.jpg",
-        "title": "Title 5",
-        "description": "Description 5"
-      }
-    ]
+    "slides": ["slider1.jpg", "slider2.jpg", "slider3.jpg", "slider4.jpg", "slider5.jpg"]
   },
   {
     "id": 11,
@@ -41,33 +15,7 @@
     "description": "Sample Description",
     "image": "fish2.jpg",
     "isAvailable": 0,
-    "slides": [
-      {
-        "image": "slider1.jpg",
-        "title": "Title 1",
-        "description": "Description 1"
-      },
-      {
-        "image": "slider2.jpg",
-        "title": "Title 2",
-        "description": "Description 2"
-      },
-      {
-        "image": "slider3.jpg",
-        "title": "Title 3",
-        "description": "Description 3"
-      },
-      {
-        "image": "slider4.jpg",
-        "title": "Title 4",
-        "description": "Description 4"
-      },
-      {
-        "image": "slider5.jpg",
-        "title": "Title 5",
-        "description": "Description 5"
-      }
-    ]
+    "slides": ["slider1.jpg", "slider2.jpg", "slider3.jpg", "slider4.jpg", "slider5.jpg"]
   },
   {
     "id": 12,
@@ -76,33 +24,7 @@
     "description": "Sample Description",
     "image": "fish2.jpg",
     "isAvailable": 1,
-    "slides": [
-      {
-        "image": "slider1.jpg",
-        "title": "Title 1",
-        "description": "Description 1"
-      },
-      {
-        "image": "slider2.jpg",
-        "title": "Title 2",
-        "description": "Description 2"
-      },
-      {
-        "image": "slider3.jpg",
-        "title": "Title 3",
-        "description": "Description 3"
-      },
-      {
-        "image": "slider4.jpg",
-        "title": "Title 4",
-        "description": "Description 4"
-      },
-      {
-        "image": "slider5.jpg",
-        "title": "Title 5",
-        "description": "Description 5"
-      }
-    ]
+    "slides": ["slider1.jpg", "slider2.jpg", "slider3.jpg", "slider4.jpg", "slider5.jpg"]
   },
   {
     "id": 13,
@@ -111,33 +33,7 @@
     "description": "Sample Description",
     "image": "fish2.jpg",
     "isAvailable": 1,
-    "slides": [
-      {
-        "image": "slider1.jpg",
-        "title": "Title 1",
-        "description": "Description 1"
-      },
-      {
-        "image": "slider2.jpg",
-        "title": "Title 2",
-        "description": "Description 2"
-      },
-      {
-        "image": "slider3.jpg",
-        "title": "Title 3",
-        "description": "Description 3"
-      },
-      {
-        "image": "slider4.jpg",
-        "title": "Title 4",
-        "description": "Description 4"
-      },
-      {
-        "image": "slider5.jpg",
-        "title": "Title 5",
-        "description": "Description 5"
-      }
-    ]
+    "slides": ["slider1.jpg", "slider2.jpg", "slider3.jpg", "slider4.jpg", "slider5.jpg"]
   },
   {
     "id": 14,
@@ -146,33 +42,7 @@
     "description": "Sample Description",
     "image": "fish2.jpg",
     "isAvailable": 1,
-    "slides": [
-      {
-        "image": "slider1.jpg",
-        "title": "Title 1",
-        "description": "Description 1"
-      },
-      {
-        "image": "slider2.jpg",
-        "title": "Title 2",
-        "description": "Description 2"
-      },
-      {
-        "image": "slider3.jpg",
-        "title": "Title 3",
-        "description": "Description 3"
-      },
-      {
-        "image": "slider4.jpg",
-        "title": "Title 4",
-        "description": "Description 4"
-      },
-      {
-        "image": "slider5.jpg",
-        "title": "Title 5",
-        "description": "Description 5"
-      }
-    ]
+    "slides": ["slider1.jpg", "slider2.jpg", "slider3.jpg", "slider4.jpg", "slider5.jpg"]
   },
   {
     "id": 15,
@@ -181,33 +51,7 @@
     "description": "Sample Description",
     "image": "fish2.jpg",
     "isAvailable": 1,
-    "slides": [
-      {
-        "image": "slider1.jpg",
-        "title": "Title 1",
-        "description": "Description 1"
-      },
-      {
-        "image": "slider2.jpg",
-        "title": "Title 2",
-        "description": "Description 2"
-      },
-      {
-        "image": "slider3.jpg",
-        "title": "Title 3",
-        "description": "Description 3"
-      },
-      {
-        "image": "slider4.jpg",
-        "title": "Title 4",
-        "description": "Description 4"
-      },
-      {
-        "image": "slider5.jpg",
-        "title": "Title 5",
-        "description": "Description 5"
-      }
-    ]
+    "slides": ["slider1.jpg", "slider2.jpg", "slider3.jpg", "slider4.jpg", "slider5.jpg"]
   },
   {
     "id": 16,
@@ -216,33 +60,7 @@
     "description": "Sample Description",
     "image": "fish2.jpg",
     "isAvailable": 1,
-    "slides": [
-      {
-        "image": "slider1.jpg",
-        "title": "Title 1",
-        "description": "Description 1"
-      },
-      {
-        "image": "slider2.jpg",
-        "title": "Title 2",
-        "description": "Description 2"
-      },
-      {
-        "image": "slider3.jpg",
-        "title": "Title 3",
-        "description": "Description 3"
-      },
-      {
-        "image": "slider4.jpg",
-        "title": "Title 4",
-        "description": "Description 4"
-      },
-      {
-        "image": "slider5.jpg",
-        "title": "Title 5",
-        "description": "Description 5"
-      }
-    ]
+    "slides": ["slider1.jpg", "slider2.jpg", "slider3.jpg", "slider4.jpg", "slider5.jpg"]
   },
   {
     "id": 17,
@@ -251,33 +69,7 @@
     "description": "Sample Description",
     "image": "fish2.jpg",
     "isAvailable": 1,
-    "slides": [
-      {
-        "image": "slider1.jpg",
-        "title": "Title 1",
-        "description": "Description 1"
-      },
-      {
-        "image": "slider2.jpg",
-        "title": "Title 2",
-        "description": "Description 2"
-      },
-      {
-        "image": "slider3.jpg",
-        "title": "Title 3",
-        "description": "Description 3"
-      },
-      {
-        "image": "slider4.jpg",
-        "title": "Title 4",
-        "description": "Description 4"
-      },
-      {
-        "image": "slider5.jpg",
-        "title": "Title 5",
-        "description": "Description 5"
-      }
-    ]
+    "slides": ["slider1.jpg", "slider2.jpg", "slider3.jpg", "slider4.jpg", "slider5.jpg"]
   },
   {
     "id": 18,
@@ -286,33 +78,7 @@
     "description": "Sample Description",
     "image": "fish2.jpg",
     "isAvailable": 1,
-    "slides": [
-      {
-        "image": "slider1.jpg",
-        "title": "Title 1",
-        "description": "Description 1"
-      },
-      {
-        "image": "slider2.jpg",
-        "title": "Title 2",
-        "description": "Description 2"
-      },
-      {
-        "image": "slider3.jpg",
-        "title": "Title 3",
-        "description": "Description 3"
-      },
-      {
-        "image": "slider4.jpg",
-        "title": "Title 4",
-        "description": "Description 4"
-      },
-      {
-        "image": "slider5.jpg",
-        "title": "Title 5",
-        "description": "Description 5"
-      }
-    ]
+    "slides": ["slider1.jpg", "slider2.jpg", "slider3.jpg", "slider4.jpg", "slider5.jpg"]
   },
   {
     "id": 19,
@@ -321,32 +87,6 @@
     "description": "Sample Description",
     "image": "fish2.jpg",
     "isAvailable": 0,
-    "slides": [
-      {
-        "image": "slider1.jpg",
-        "title": "Title 1",
-        "description": "Description 1"
-      },
-      {
-        "image": "slider2.jpg",
-        "title": "Title 2",
-        "description": "Description 2"
-      },
-      {
-        "image": "slider3.jpg",
-        "title": "Title 3",
-        "description": "Description 3"
-      },
-      {
-        "image": "slider4.jpg",
-        "title": "Title 4",
-        "description": "Description 4"
-      },
-      {
-        "image": "slider5.jpg",
-        "title": "Title 5",
-        "description": "Description 5"
-      }
-    ]
+    "slides": ["slider1.jpg", "slider2.jpg", "slider3.jpg", "slider4.jpg", "slider5.jpg"]
   }
 ]

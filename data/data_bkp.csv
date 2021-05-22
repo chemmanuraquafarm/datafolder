@@ -1,0 +1,21 @@
+id,name,rate,description,image,isAvailable,slides,type
+1,Fish 1,10,Sample Description,fish1.jpg,1,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",fish
+2,Fish 2,11,Sample Description,fish2.jpg,1,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",fish
+3,Fish 3,12,Sample Description,fish1.jpg,0,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",fish
+4,Fish 4,13,Sample Description,fish2.jpg,1,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",fish
+5,Fish 5,14,Sample Description,fish1.jpg,1,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",fish
+6,Fish 6,15,Sample Description,fish2.jpg,0,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",fish
+7,Fish 7,16,Sample Description,fish1.jpg,1,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",fish
+8,Fish 8,17,Sample Description,fish2.jpg,1,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",fish
+9,Fish 9,18,Sample Description,fish1.jpg,0,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",fish
+10,Fish 10,19,Sample Description,fish2.jpg,1,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",fish
+11,Fish Food 1,10,Sample Description,fish1.jpg,1,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",food
+12,Fish Food 2,11,Sample Description,fish2.jpg,1,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",food
+13,Fish Food 3,12,Sample Description,fish1.jpg,0,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",food
+14,Fish Food 4,13,Sample Description,fish2.jpg,1,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",food
+15,Fish Food 5,14,Sample Description,fish1.jpg,1,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",food
+16,Fish Food 6,15,Sample Description,fish2.jpg,0,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",food
+17,Fish Food 7,16,Sample Description,fish1.jpg,1,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",food
+18,Fish Food 8,17,Sample Description,fish2.jpg,1,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",food
+19,Fish Food 9,18,Sample Description,fish1.jpg,0,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",food
+20,Fish Food 10,19,Sample Description,fish2.jpg,1,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",food

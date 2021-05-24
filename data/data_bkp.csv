@@ -19,3 +19,5 @@ id,name,rate,description,image,isAvailable,slides,type
 18,Fish Food 8,17,Sample Description,fish2.jpg,1,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",food
 19,Fish Food 9,18,Sample Description,fish1.jpg,0,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",food
 20,Fish Food 10,19,Sample Description,fish2.jpg,1,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",food
+21,Fish 11,19,chilli mosaic,fish2.jpg,1,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",food
+22,Fish Food 11,19,platinum red,2020-03-21.png,1,"[""slider1.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",food

@@ -1,5 +1,5 @@
 id,name,rate,description,image,isAvailable,slides,type
-1,fish 1 test,10,Sample Description,test.jpg,1,"[""test.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",fish
+1,platinum red dumbo ear,150,Platinum red tail Dumbo Big Ear Guppies have dark bluish or greenish ears or pectoral fins and their tail and dorsal fins have a red color.,platinumdp.jpg,1,"[""platinums1.jpg"",""platinums2.jpg"",""platinums3.jpg"",""platinums4.jpg""]",fish
 2,Fish 2,11,Sample Description,fish2.jpg,1,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",fish
 3,Fish 3,12,Sample Description,fish1.jpg,0,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",fish
 4,Fish 4,13,Sample Description,fish2.jpg,1,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",fish
@@ -19,5 +19,3 @@ id,name,rate,description,image,isAvailable,slides,type
 18,Fish Food 8,17,Sample Description,fish2.jpg,1,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",food
 19,Fish Food 9,18,Sample Description,fish1.jpg,0,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",food
 20,Fish Food 10,19,Sample Description,fish2.jpg,1,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",food
-21,Fish 11,19,chilli mosaic,fish2.jpg,1,"[""slider1.jpg"",""slider2.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",food
-22,Fish Food 11,19,platinum red,test.jpg,1,"[""slider1.jpg"",""slider3.jpg"",""slider4.jpg"",""slider5.jpg""]",food
